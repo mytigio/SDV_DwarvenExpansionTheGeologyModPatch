@@ -1,5 +1,5 @@
-[center][size=6]Dwarven Expansion / The Geology Mod Patch[/size][/center]
-A patch to add support for Dwarven Expansion features to new minerals added in The Geology Mod.
+[center][size=6]Dwarven Expansion / Rocks and Relics[/size][/center]
+A patch to add support for Dwarven Expansion features to new minerals added in Rocks and Relics (formally The Geology Mod).
 
 [size=5]New Machine Recipes[/size]
 
