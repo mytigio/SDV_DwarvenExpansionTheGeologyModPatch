@@ -15,7 +15,7 @@
                     "ItemId": "{{ModId}}_Jewelry_B_Zircon",
                     "CopyPrice": true,
                     "CopyQuality": true,
-                    "Condition": "ITEM_ID Input (O)Solariaze.Geology_Zircon",
+                    "Condition": "ITEM_ID Input (O)Solariaze.RAR.Zircon",
                     "PriceModifiers": [
                         {
                             "ID": "increase_base_for_gold_bar",
@@ -34,7 +34,7 @@
                     "ItemId": "{{ModId}}_Jewelry_B_Halite",
                     "CopyPrice": true,
                     "CopyQuality": true,
-                    "Condition": "ITEM_ID Input (O)Solariaze.Geology_Halite",
+                    "Condition": "ITEM_ID Input (O)Solariaze.RAR.Halite",
                     "PriceModifiers": [
                         {
                             "ID": "increase_base_for_gold_bar",
@@ -53,7 +53,7 @@
                     "ItemId": "{{ModId}}_Jewelry_B_Olivine",
                     "CopyPrice": true,
                     "CopyQuality": true,
-                    "Condition": "ITEM_ID Input (O)Solariaze.Geology_Olivine",
+                    "Condition": "ITEM_ID Input (O)Solariaze.RAR.Olivine",
                     "PriceModifiers": [
                         {
                             "ID": "increase_base_for_gold_bar",
@@ -72,7 +72,7 @@
                     "ItemId": "{{ModId}}_Jewelry_B_Prismatic_Pieces",
                     "CopyPrice": true,
                     "CopyQuality": true,
-                    "Condition": "ITEM_ID Input (O)Solariaze.Geology_Prismatic_Pieces",
+                    "Condition": "ITEM_ID Input (O)Solariaze.RAR.PrismaticPieces",
                     "PriceModifiers": [
                         {
                             "ID": "increase_base_for_gold_bar",
@@ -91,7 +91,7 @@
                     "ItemId": "{{ModId}}_Jewelry_B_Vanadinite",
                     "CopyPrice": true,
                     "CopyQuality": true,
-                    "Condition": "ITEM_ID Input (O)Solariaze.Geology_Vanadinite",
+                    "Condition": "ITEM_ID Input (O)Solariaze.RAR.Vanadinite",
                     "PriceModifiers": [
                         {
                             "ID": "increase_base_for_gold_bar",
@@ -110,7 +110,7 @@
                     "ItemId": "{{ModId}}_Jewelry_B_Sapphire",
                     "CopyPrice": true,
                     "CopyQuality": true,
-                    "Condition": "ITEM_ID Input (O)Solariaze.Geology_Sapphire",
+                    "Condition": "ITEM_ID Input (O)Solariaze.RAR.Sapphire",
                     "PriceModifiers": [
                         {
                             "ID": "increase_base_for_gold_bar",
@@ -129,7 +129,7 @@
                     "ItemId": "{{ModId}}_Jewelry_B_Lapis_Lazuli",
                     "CopyPrice": true,
                     "CopyQuality": true,
-                    "Condition": "ITEM_ID Input (O)Solariaze.Geology_Lapis_Lazuli",
+                    "Condition": "ITEM_ID Input (O)Solariaze.RAR.LapisLazuli",
                     "PriceModifiers": [
                         {
                             "ID": "increase_base_for_gold_bar",
@@ -148,7 +148,7 @@
                     "ItemId": "{{ModId}}_Jewelry_B_Rhodochrosite",
                     "CopyPrice": true,
                     "CopyQuality": true,
-                    "Condition": "ITEM_ID Input (O)Solariaze.Geology_Rhodochrosite",
+                    "Condition": "ITEM_ID Input (O)Solariaze.RAR.Rhodochrosite",
                     "PriceModifiers": [
                         {
                             "ID": "increase_base_for_gold_bar",
@@ -167,7 +167,7 @@
                     "ItemId": "{{ModId}}_Jewelry_B_Peridot",
                     "CopyPrice": true,
                     "CopyQuality": true,
-                    "Condition": "ITEM_ID Input (O)Solariaze.Geology_Peridot",
+                    "Condition": "ITEM_ID Input (O)Solariaze.RAR.Peridot",
                     "PriceModifiers": [
                         {
                             "ID": "increase_base_for_gold_bar",
@@ -186,7 +186,7 @@
                     "ItemId": "{{ModId}}_Jewelry_B_Onyx",
                     "CopyPrice": true,
                     "CopyQuality": true,
-                    "Condition": "ITEM_ID Input (O)Solariaze.Geology_Onxy",
+                    "Condition": "ITEM_ID Input (O)Solariaze.RAR.Onxy",
                     "PriceModifiers": [
                         {
                             "ID": "increase_base_for_gold_bar",
@@ -205,7 +205,7 @@
                     "ItemId": "{{ModId}}_Jewelry_B_Sunstone",
                     "CopyPrice": true,
                     "CopyQuality": true,
-                    "Condition": "ITEM_ID Input (O)Solariaze.Geology_Sunstone",
+                    "Condition": "ITEM_ID Input (O)Solariaze.RAR.Sunstone",
                     "PriceModifiers": [
                         {
                             "ID": "increase_base_for_gold_bar",
