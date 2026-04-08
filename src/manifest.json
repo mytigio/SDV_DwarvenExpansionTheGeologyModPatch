@@ -1,7 +1,7 @@
 ﻿{
 	"Name": "[CP] Dwarven Expansion - The Geology Mod Patch",
 	"Author": "mytigio",
-	"Version": "1.1.0",
+	"Version": "1.1.1",
 	"Description": "Adds compatability for Dwarven Expansion jewelry making with Rocks and Relics minerals.",
 	"UniqueID": "mytigio.dwarven_expansion_the_geology_mod",
 	"MinimumApiVersion": "2.11.2",

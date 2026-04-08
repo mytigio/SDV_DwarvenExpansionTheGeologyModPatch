@@ -4,7 +4,7 @@
             "Action": "EditData",
             "Target": "Data/Objects",
             "TargetField": [
-                "Solariaze.Geology_Prismatic_Pieces",
+                "Solariaze.RAR.PrismaticPieces",
                 "ContextTags"
             ],
             "Entries": {
